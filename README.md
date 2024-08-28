@@ -1,2 +1,2 @@
 # Fake-News-Detection
-The workflow involves using test and train datasets to evaluate and train various machine learning models through a pipeline.
+The workflow involves using test and train datasets to evaluate and train various machine learning models through a pipeline. This setup includes consistent preprocessing and evaluation, incorporating steps like data cleaning and feature extraction. NLTK libraries and TF-IDF are utilized for textual data processing, converting text into numerical features to highlight word importance. Multiple models are assessed to identify the best performer.
